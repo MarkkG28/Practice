@@ -88,44 +88,20 @@ nav li {
     background-color: #c2195b;
 }
 
-/*Member 5:
-16. Select the element with id “main”
- - Add a padding at the top side.
- - Align the text to center.
-
-17. Select the element with class “title-2”
- - Set the font to Zilla Slab.
- - Increase the font-size.
-
-18. Increase the font-weight.
- - Select elements with class “description”:
- - Set margins at the top and bottom sides of the element.
- - Increase the font-weight.
-
-19. Select the footer element:
- - Add a margin at the top side of the element.
- - Add a padding on all sides.
- - Align the text to the center.
-
-20. Select the spans inside the footer:
- - Add margins at the right and left side of the element.
- - Increase the font weigh
-*/
-
- #main{
+#main{
     padding-top: 50px;
     text-align: center;
- }
+}
 
- .title-2{
+.title-2{
     font-family: Zilla Slab, sans-serif;
     font-size: 1.8rem;
- }
+}
 
- .description{
+.description{
     font-weight: 300;
     margin: 50px;
- }
+}
 
 #book-button {
     margin-top: 10px;
